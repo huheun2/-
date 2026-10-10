@@ -1,0 +1,6 @@
+{
+  "name": "Illustory! - The Necklace",
+  "description": "Proactive English picture-book reading app for 4th-5th graders. Read The Necklace, tap words for Korean meanings, solve picture quizzes, color objects, and upgrade your avatar!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
